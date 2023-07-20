@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitul Chaudhary</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitulchau&label=Profile%20views&color=4588b5&style=flat" alt="mitulchau" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MitulChau](https://github.com/MitulChau)
 
-- 💬 Ask me about **Java, C++ and Python**
+- 💬 Ask me about **Java, C++, Python and DSA**
 
 - 📫 How to reach me **mitul.chau99@gmail.com**
 
